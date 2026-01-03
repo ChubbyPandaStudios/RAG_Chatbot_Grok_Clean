@@ -12,32 +12,31 @@ Grok avatar using remote URL
 Secure API key management via Hugging Face Secrets
 Fully deployed on Hugging Face Spaces with PWA support (installable on mobile/desktop)
 
-The app is production-ready as a simple yet polished Grok-4 interface - perfect as a portfolio demo for generative AI engineering roles.
-Upcoming Features (Roadmap)
+Upcoming Features:
 Phase 1: Retrieval-Augmented Generation (RAG)
 
-File upload support (PDF, TXT)
-Document chunking, embedding, and vector storage (Chroma/FAISS)
-Grounded responses using user-uploaded content to reduce hallucinations
-Source citations in responses
+    File upload support (PDF, TXT)
+    Document chunking, embedding, and vector storage (Chroma/FAISS)
+    Grounded responses using user-uploaded content to reduce hallucinations
+    Source citations in responses
 
 Phase 2: AI Agent with Tool Use
 
-Integration of external tools (web search, code execution, etc.)
-ReAct-style reasoning loop
-Autonomous multi-step task completion
+    Integration of external tools (web search, code execution, etc.)
+    ReAct-style reasoning loop
+    Autonomous multi-step task completion
 
 Phase 3: Evaluation Dashboard
 
-Automated benchmarking and metrics (hallucination detection, relevance, latency)
-Side-by-side model comparison
-Custom test sets and red-teaming
+    Automated benchmarking and metrics (hallucination detection, relevance, latency)
+    Side-by-side model comparison
+    Custom test sets and red-teaming
 
 Future Enhancements
 
-Voice input/output
-Multi-model support (compare Grok, Claude, GPT, etc.)
-Persistent user sessions and chat history
+    Voice input/output
+    Multi-model support (compare Grok, Claude, GPT, etc.)
+    Persistent user sessions and chat history
 
 This project is being built iteratively as a hands-on demonstration of modern generative AI engineering skills - from API integration and UI design to advanced RAG and agentic workflows.
 Live Demo: https://dykemanTech-grok-rag-chatbot.hf.space
