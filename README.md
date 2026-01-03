@@ -1,4 +1,15 @@
-# RAG_Chatbot_Grok
+---
+title: Grok-4 Chatbot
+emoji: 🗲
+colorFrom: purple
+colorTo: blue
+sdk: gradio
+sdk_version: 4.44.0
+app_file: app.py
+pinned: false
+---
+# grok-4-chatbot(phase0)
+RAG_Chatbot_Grok
 Grok-4 Chatbot (Phase 0)
 Live demo: https://dykemanTech-grok-rag-chatbot.hf.space
 A real-time streaming chatbot powered by xAI's Grok-4 API, built with Gradio for a clean, responsive user experience.
